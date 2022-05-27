@@ -25,7 +25,7 @@ private String url;
         binding= ActivityHomeBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
         setSupportActionBar(binding.toolbarHome.getRoot());
-        url = "https://drive.google.com/file/d/1fD4A7ZYohYGsyNRgxa2titzBr82l2wOf/view?usp=sharing";
+        url = "https://drive.google.com/file/d/1cRyJIpAG6judWeVzXNMVgNQWzC5rlcKf/view?usp=sharing";
 
 
         binding.TVNombreHome.setText(c.getNombre());
