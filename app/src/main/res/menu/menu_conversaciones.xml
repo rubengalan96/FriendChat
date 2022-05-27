@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/conversaciones_to_amistades"
+        android:title="Amistades"/>
+
+    <item
+        android:id="@+id/conversaciones_to_grupos"
+        android:title="Grupos"/>
+
+    <item
+        android:id="@+id/anyadir_conversacion"
+        android:title="Añadir conversación"
+        android:icon="@drawable/icono_anyadir"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/conversacioens_to_home"
+        android:title="Home"/>
+
+
+</menu>
